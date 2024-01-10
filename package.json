@@ -20,6 +20,7 @@
     "react-dom": "^18",
     "react-email": "1.10.0",
     "resend": "^2.1.0",
+    "strapi": "^3.6.11",
     "stripe": "13.2.0"
   },
   "devDependencies": {
